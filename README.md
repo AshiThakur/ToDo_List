@@ -1,6 +1,7 @@
 # ToDo_App
 ToDo list application developed with ReactJs framework
 
+Available Scripts: 
 In the project directory, you can run:
 
 npm start
