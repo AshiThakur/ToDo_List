@@ -1,5 +1,6 @@
 # ToDo_App
-ToDo list application developed with ReactJs framework
+ToDo list application developed with HTML,CSS,Bootstrap and ReactJs framework.\
+Using a to-do list app is one of the easiest methods of task management. They offer complete control over adding, organizing, and finishing tasks in a jiffy. Additionally, to-do list apps ensure that task recording is being done properly. 
 
 
 # Getting Started with Create React App
@@ -43,3 +44,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+### Screenshots
