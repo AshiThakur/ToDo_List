@@ -24,4 +24,4 @@ Using a to-do list app is one of the easiest methods of task management. They of
  
  **Thank You for reading 🙂**
  
- **Do give star to the repo **🌟**
+ **Do give star to the repo 🌟**
